@@ -8,7 +8,7 @@
 
 ### 🔧 Tech Stack
 
-**Frontend:** React, Redux, Tailwind CSS, Framer Motion, Zustand  
+**Frontend:**Nextjs, React, Redux, Tailwind CSS, Framer Motion, Zustand  
 **Backend:** Node.js, Express.js, MongoDB  
 **Others:** TypeScript, Socket.io, JWT, Figma, Git, Postman
 
